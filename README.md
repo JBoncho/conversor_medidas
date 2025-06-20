@@ -8,3 +8,5 @@ Para ejecutar este proyecto después de clonar debes descargar las bibliotecas d
 '''
 pip install -r requirements.txt
 '''
+
+También, se debe ejecutar el programa en consola.
